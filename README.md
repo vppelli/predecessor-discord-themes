@@ -1,7 +1,13 @@
-# Predecessor Discord Themes
+<div align="center">
 
-# Standard Readme
+[![PredecessorDiscordThemes](https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/img/PDT-logo.png)](https://github.com/vppelli/predecessor-discord-themes)
+</div>
 
+<div align="center">
+  
+![Requires](https://img.shields.io/badge/Requires-%23E8C506?style=for-the-badge) [![BetterDiscord](https://img.shields.io/badge/Better_Discord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://betterdiscord.app) [![Vencord](https://img.shields.io/badge/Vencord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://vencord.dev) 
+
+</div>
 
 ## Table of Contents
 
