@@ -19,7 +19,7 @@
 
 ![Countess](/img/Previews/CountessPreview.png)
 
-![Crunch](#)
+![Crunch](/img/Previews/CrunchPreview.png)
 
 ![Drongo](#)
 
