@@ -61,19 +61,19 @@
 
     /* Blur for background global */
     --blur-sidepannel: blur(5px);
-    --blur-main-chat: blur(2px);
+    --blur-main-chat: blur(0px);
     --blur-chat-header: blur(15px);
 
     /* Changes Channel list background color / image you can really go crazy here if you understand css. If you dont just replace the Url link with your Image                                                              Change sizing and scaling here for image          This is a Gradient if you dont want a background image just delete the url()part */
-    --sidebar-image: url(https://vppelli.github.io/predecessor-discord-themes/img/hero/Revenant.png) 70% 100%/300% no-repeat, linear-gradient(180deg, #00000000, #ff000000, #ff000025, #ff5e0098) no-repeat;
+    --sidebar-image: url(https://vppelli.github.io/predecessor-discord-themes/img/hero/Revenant.png) 65% 100%/350% no-repeat, linear-gradient(45deg, #ff5e0098, #ff000098, #00000000, #ff000000, #ff000025, #ff5e0098) no-repeat;
 
     /* Chat area, can make it a gradient if you want and transparent */
-    --chat-background: linear-gradient(-90deg, #00000000, #ff000000, #ff000000, #13131325, #00000098);
+    --chat-background: linear-gradient(120deg, #ff00004c, #ff5e0098, #5b32009f, #1e1e1e4d, #ff000000, #00000056, #d0b98e7c, #ff000063);
 
     /* Changed Main color of Links It uses HSL for its color Hue: Number Saturation: Percent % Lightness: Percent % */
     --accent-hue: 0;
     --accent-saturation: 100%;
-    --accent-lightness: 50%;
+    --accent-lightness: 100%;
     --accent-text-color: #0c0c0c;
 
     /* Header bar that shows close, minimize, enlarge and dicord title*/
@@ -107,9 +107,14 @@
     --menu-text-color: hsl(0, 0%, 85%);
 
     /* This is when you hover or interact with channel name, chats, vc, and any hover "text" in discord  */
-    --background-tinted-hover: #ff00007c;
-    --background-tinted-active: #252525d7;
+    --background-tinted-hover: #ff000031;
+    --background-tinted-active: #2525252b;
     --background-tinted-highlight: hsla(0, 0%, 100%, 0.17);
     --background-tinted-dark: hsla(0, 0%, 0%, 0.23);
+
+    /* Font Colors */
+    --text-normal: #fff;
+    --primary-330: #fff;
+    --primary-360: #e3e3e3;
 
 }
