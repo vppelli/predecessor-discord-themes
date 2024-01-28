@@ -10,12 +10,77 @@
 </div>
 
 ## Table of Contents
-- [Background](#background)
+- [Themes](#themes)
 - [Intalling Themes](#installing-themes)
 - [Maintainers](#maintainers)
 - [Special Thanks](#special-thanks)
 
-## Background
+## Themes
+
+![Countess](#)
+
+![Crunch](#)
+
+![Drongo](#)
+
+![Fengmao](#)
+
+![Gadget](#)
+
+![Gideon](#)
+
+![Greystone](#)
+
+![Grux](#)
+
+![Howitzer](#)
+
+![IggyAndScorch](#)
+
+![Kallari](#)
+
+![Khaimera](#)
+
+![Kira](#)
+
+![Kwang](#)
+
+![LtBellica](#)
+
+![Morigesh](#)
+
+![Murdock](#)
+
+![Muriel](#)
+
+![Narbash](#)
+
+![Phase](#)
+
+![Rampage](#)
+
+![Revenant](#)
+
+![Riktor](#)
+
+![Serath](#)
+
+![Sevarog](#)
+
+![Shinbi](#)
+
+![Sparrow](#)
+
+![Steel](#)
+
+![TheFey](#)
+
+![TwinBlast](#)
+
+![Wraith](#)
+
+![Zarus](#)
+
 
 ## Installing Themes
 
