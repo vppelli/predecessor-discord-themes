@@ -17,7 +17,7 @@
 
 ## Themes
 
-![Countess](#)
+![Countess](/img/Previews/CountessPreview.png)
 
 ![Crunch](#)
 
