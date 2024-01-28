@@ -61,7 +61,7 @@
 
     /* Blur for background global */
     --blur-sidepannel: blur(5px);
-    --blur-main-chat: blur(2px);
+    --blur-main-chat: blur(5px);
     --blur-chat-header: blur(15px);
 
     /* Changes Channel list background color / image you can really go crazy here if you understand css. If you dont just replace the Url link with your Image                                                              Change sizing and scaling here for image          This is a Gradient if you dont want a background image just delete the url()part */
