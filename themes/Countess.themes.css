@@ -1,0 +1,98 @@
+/* 
+*
+* Add your own font
+* @import FONT 
+*
+*/
+
+@import url(https://vppelli.github.io/predecessor-discord-themes/src/main.css);
+
+:root {
+    /* Change the font by importing a font, make sure to change the name to see it update */
+    --app-font: "Circular Std";
+
+    /* Background is overall background use colors for this Linear-gradient colors work too! */
+    --app-background: #3a08b0;
+
+    /* Forground is color outline for all sub containers (text area, channel area, friends list) */
+    --app-foreground: hsla(278, 31%, 44%, .5);
+
+    /* Its the background image you can really go crazy here if you understand css. If you dont just replace the Url link with your Image                                                                              Change sizing and scaling here */
+    --app-background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1979925384076108867/EA1CADC6094BA76E3606A0CBAA2B97173B205B93/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000%20letterbox=false) center/cover no-repeat;
+
+    /* Horizontal Flip change 1 to -1 to flip it */
+    --img-flip: scaleX(1);
+
+    /*  */
+    --app-card-border-color: hsl(0, 100%, 50%);
+
+    --accent-hue: 259;
+    --accent-saturation: 95%;
+    --accent-lightness: 96%;
+    --accent-text-color: hsl(0, 0%, 6%);
+
+    --alert-hue: 0;
+    --alert-saturation: 85%;
+    --alert-lightness: 61%;
+    --alert-text-color: hsl(0, 0%, 0%);
+    --sidebar-panel-color: hsl(0, 0%, 12%);
+    --sidebar-panel-border: hsl(0, 0%, 21%);
+
+    --header-bar-height: 56px;
+    --header-bar-color: hsl(0, 0%, 13%);
+
+    --card-color: hsl(0, 0%, 10%);
+    --card-color-hover: hsl(0, 0%, 15%);
+    --card-color-active: hsl(0, 0%, 19%);
+    --card-radius: 6px;
+    --card-border-color: hsl(0, 0%, 19%);
+
+    --button-height: 36px;
+    --button-padding: 0 18px;
+    --button-main-color: #8056e2;
+    --button-second-color: hsl(0, 0%, 100%);
+
+    --popout-color: hsl(0, 0%, 16%);
+    --popout-color-alt: hsl(0, 0%, 11%);
+    --popout-radius: 6px;
+    --popout-radius-big: 10px;
+    --popout-border-color: hsl(0, 0%, 26%);
+
+    --menu-border-color: hsl(0, 0%, 26%);
+    --menu-text-color: hsl(0, 0%, 85%);
+    --menu-item-radius: 6px;
+
+    --input-height: 36px;
+    --input-padding: 0 12px;
+    --input-color: hsla(0, 0%, 100%, 0.09);
+    --input-radius: 4px;
+    --input-border-color: hsl(0, 0%, 33%);
+    --input-text-color: hsl(0, 0%, 96%);
+    --input-placeholder-color: hsl(0, 0%, 71%);
+
+    --main-textarea-min-height: 48px;
+    --main-textarea-color: hsl(0, 0%, 14%);
+    --main-textarea-border-color: hsl(0, 0%, 20%);
+    --main-textarea-text-color: hsl(0, 0%, 60%);
+    --main-textarea-placeholder-color: hsl(0, 0%, 54%);
+    --main-textarea-typing-color: hsla(0, 0%, 7%, 0.9);
+
+    --switch-knob-color: hsl(0, 0%, 100%);
+    --switch-slider-color: hsl(0, 0%, 33%);
+
+    --message-color-hover: hsla(260, 10%, 17%, 0.329);
+
+    --popout-color: rgba(66, 10, 81, 0.95);
+
+    --menu-text-color: hsl(0, 0%, 85%);
+
+    --background-tinted-hover: hsla(284, 100%, 50%, 0.5);
+    --background-tinted-active: hsla(0, 0%, 100%, 0.11);
+    --background-tinted-highlight: hsla(0, 0%, 100%, 0.17);
+    --background-tinted-dark: hsla(0, 0%, 0%, 0.23);
+
+    --header-background: #00000017;
+
+    --blur-ammount: blur(5px);
+    --sideBar-Image: url(https://www.predecessorgame.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Frm5ymc69vmwz%2F7hFFuA0iE0ZHMVEZzJDAYH%2Fedd85e473caf770029bcaabdd68e4ee1%2Fgideon.png%3Ffm%3Dwebp%26w%3D1920&w=640&q=75) 75% 100%/300% no-repeat, linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000) no-repeat;
+}
