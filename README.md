@@ -122,3 +122,4 @@ To open and edit use any File/Txt Editor.
 ### Check out Predecessor by [@OmedaStudios](https://www.predecessorgame.com).
 
 ## License
+Free to use and edit, Not for Selling purpose!
