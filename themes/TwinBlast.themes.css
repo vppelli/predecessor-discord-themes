@@ -1,0 +1,120 @@
+/**
+ * @name Twinblast Theme
+ * @version 1.0.0
+ * @description Make Discord have a Twinblast Theme
+ * @author Vppelli
+ *
+ * @website https://github.com/vppelli
+ * @source https://github.com/vppelli/predecessor-discord-themes
+ * @donate none :)
+ * @invite none :)
+ */
+
+
+
+/*  Add your own font */
+/* @import url(Font_Link);  */
+
+/* Using CapnKitten Spotify Theme as Base Template Thankyou 
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
+ * @donate https://paypal.me/capnkitten
+ */
+
+/*                       CSS Class For Dummys                  
+*
+*   For Colors you can use these formates HEX, RGB, and HSL | #00000; = Black | rgb(255, 255, 255); = White | hsl(278, 31%, 44%); = Mid Purple
+*
+*   For Transparent Colors use RGBA or HSLA | rgba(255, 255, 255, 0); = Invisable 0 mean full transparent 1 for solid color | hsla(278, 31%, 44%, 0); = Invisable 0 mean full transparent 1 for solid color
+*   anything that uses color can use transparancy colors
+*
+*   Image Links use url(YOUR_IMAGE_LINK_HERE); this only works on areas that have image URL or Linear Gradient text
+*
+*   Gifs! Yes Gifs you can add them too they use the same format as Images use | url(YOUR_GIF_LINK_HERE);
+*   
+*   You can size images and gifs, scale them to fit using | "cover" to cover | "contain" keeps the size of image | Percentages % Example ( 50% ) will zoom in 50%
+*
+*   Position of Images use these | center will center it | Percentages % example ( 100% 50% ) will move to the left 100% of the image and will move up 50% of the image size so ( 50% 50% ) will do what ( center ) does
+*
+*   Gradiens work like this use the | linear-gradient(45deg, #000, #fff); ( 45deg moves the gradient 45 degrees ) ( color, color adds the two colors you want : adding more colors will work too dont forget to do a "," after each color add)
+*
+*/
+
+
+@import url(https://vppelli.github.io/predecessor-discord-themes/src/main.css);
+
+:root {
+    /* Change the font by importing a font, make sure to change the name to see it update */
+    --app-font: "Circular Std";
+
+    /* Background is overall background use colors for this Linear-gradient colors work too! */
+    --app-background: #000000ab;
+
+    /* Forground is color outline for all sub containers (text area, channel area, friends list) */
+    --app-foreground: rgba(33, 33, 33, 0.8);
+
+    /* Its the background image you can really go crazy here if you understand css. If you dont just replace the Url link with your Image                                                                              Change sizing and scaling here */
+    --app-background-image: url(https://s2.dmcdn.net/v/D8O3F1X5k8aXNLTL6/x1080) 0% 0%/120% no-repeat;
+
+    /* Horizontal Flip change 1 to -1 to flip */
+    --img-flip: scaleX(1);
+
+    /* Blur for background global */
+    --blur-sidepannel: blur(5px);
+    --blur-main-chat: blur(0px);
+    --blur-chat-header: blur(15px);
+
+    /* Changes Channel list background color / image you can really go crazy here if you understand css. If you dont just replace the Url link with your Image                                                              Change sizing and scaling here for image          This is a Gradient if you dont want a background image just delete the url()part */
+    --sidebar-image: url(https://vppelli.github.io/predecessor-discord-themes/img/hero/Twinblast.png) 70% 100%/350% no-repeat, linear-gradient(45deg, #00000000, #ff000052, #ff5e0052, #ff000000, #ff000000, #ff000052) no-repeat;
+
+    /* Chat area, can make it a gradient if you want and transparent */
+    --chat-background: linear-gradient(45deg, #00000000, #ff000052, #ff5e0052, #ff000000, #ff000000, #ff000052);
+
+    /* Changed Main color of Links It uses HSL for its color Hue: Number Saturation: Percent % Lightness: Percent % */
+    --accent-hue: 130;
+    --accent-saturation: 100%;
+    --accent-lightness: 100%;
+    --accent-text-color: #0c0c0c;
+
+    /* Header bar that shows close, minimize, enlarge and dicord title*/
+    --header-bar-height: 56px;
+    --header-bar-color: hsl(0, 0%, 13%);
+
+    /* Header bar that shows the name of chat + pin icon search icon area top area */
+    --header-background: #0000005b;
+
+    /* Buttons */
+    --button-height: 36px;
+    --button-padding: 0 18px;
+    --button-main-color: #ff000052;
+    --button-second-color: #ff000052;
+
+    /* This is the floating containers when you hover on server names, popups for emotes, join server, and right click options also uses HSLA ( A means alpha so 0 = transparent 1 = solid )*/
+    --popout-color: rgba(35, 35, 35, 0.886);
+    --popout-color-alt: hsl(0, 0%, 11%);
+    --popout-radius: 6px;
+    --popout-radius-big: 10px;
+    --popout-border-color: hsl(0, 0%, 26%);
+
+    /* Its the Switches for on or off toggle */
+    --switch-knob-color: hsl(0, 0%, 100%);
+    --switch-slider-color: hsl(0, 0%, 33%);
+
+    /* Backdrop when you hover over a Message this uses HSLA ( A means alpha so 0 = transparent 1 = solid ) */
+    --message-color-hover: hsla(0, 0%, 15%, 0.329);
+
+    /* Text of new message */
+    --menu-text-color: hsl(0, 0%, 85%);
+    
+    /* This is when you hover or interact with channel name, chats, vc, and any hover "text" in discord  */
+    --background-tinted-hover: #ff000052;
+    --background-tinted-active: #000000b5;
+    --background-tinted-highlight: hsla(0, 0%, 100%, 0.17);
+    --background-tinted-dark: hsla(0, 0%, 0%, 0.23);
+
+    /* Font Colors */
+    --text-normal: #fff;
+    --primary-330: #fff;
+    --primary-360: #e3e3e3;
+    
+}
