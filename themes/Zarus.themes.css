@@ -54,7 +54,7 @@
     --app-foreground: #8fc6a952;
 
     /* Its the background image you can really go crazy here if you understand css. If you dont just replace the Url link with your Image                                                                              Change sizing and scaling here */
-    --app-background-image: url(https://preview.redd.it/zarus-is-ready-are-you-v0-myo6nxge1qfb1.png?auto=webp&s=e90a39bbf000140dbde89523c89898e225ca548e) 1000% 0%/cover no-repeat;
+    --app-background-image: url(https://preview.redd.it/zarus-is-ready-are-you-v0-myo6nxge1qfb1.png?auto=webp&s=e90a39bbf000140dbde89523c89898e225ca548e) 0% 0%/110% no-repeat;
 
     /* Horizontal Flip change 1 to -1 to flip */
     --img-flip: scaleX(1);
