@@ -23,7 +23,7 @@
 
 ![Drongo](/img/Previews/DrongoPreview.png)
 
-![Fengmao](#)
+![Fengmao](/img/Previews/FangmaoPreview.png)
 
 ![Gadget](#)
 
@@ -59,7 +59,7 @@
 
 ![Rampage](#)
 
-![Revenant](#)
+![Revenant](/img/Previews/RevenantPreview.png)
 
 ![Riktor](#)
 
