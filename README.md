@@ -10,7 +10,7 @@
 </div>
 
 ## Table of Contents
-
+- [Intalling Themes](#Installing_Themes)
 
 ## Background
 
@@ -47,11 +47,9 @@ To open and edit use any File/Txt Editor.
 [@Vppelli](https://github.com/vppelli).
 
 ## Special Thanks
-CapnKitten for letting me use the Spotify Discord theme as the base for Predecessor Disocrd Theme.
-
-Omeda Studio for the Game-Art.
-
-Blank for the Pixel Art.
+- CapnKitten for letting me use the Spotify Discord theme as the base for Predecessor Disocrd Theme.
+- Omeda Studio for the Game-Art.
+- Blank for the Pixel Art.
 
 ### Check out Spotify Discord Theme by [@CapnKitten](https://github.com/CapnKitten/Spotify-Discord).
 ### Check out Predecessor by [@OmedaStudios](https://www.predecessorgame.com).
