@@ -115,7 +115,7 @@ To open and edit use any File/Txt Editor.
 [@Vppelli](https://github.com/vppelli).
 
 ## Special Thanks
-- CapnKitten Im using the Spotify Discord theme as the base for Predecessor Disocrd Theme.
+- CapnKitten for allowing me to use the Spotify Discord theme as the base for Predecessor Disocrd Theme. Please Check out his Themes!
 - Omeda Studio for the Game-Art.
 - Blank for the Pixel Art.
 
