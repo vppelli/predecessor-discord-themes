@@ -86,8 +86,8 @@
     /* Buttons */
     --button-height: 36px;
     --button-padding: 0 18px;
-    --button-main-color: #c28b83a7;
-    --button-second-color: #73b8c49c;
+    --button-main-color: #b973c47c;
+    --button-second-color: #b973c47c;
 
     /* This is the floating containers when you hover on server names, popups for emotes, join server, and right click options also uses HSLA ( A means alpha so 0 = transparent 1 = solid )*/
     --popout-color: rgba(35, 35, 35, 0.886);
@@ -107,7 +107,7 @@
     --menu-text-color: hsl(0, 0%, 85%);
     
     /* This is when you hover or interact with channel name, chats, vc, and any hover "text" in discord  */
-    --background-tinted-hover: #73b8c47c;
+    --background-tinted-hover: #b973c47c;
     --background-tinted-active: #000000b5;
     --background-tinted-highlight: hsla(0, 0%, 100%, 0.17);
     --background-tinted-dark: hsla(0, 0%, 0%, 0.23);
