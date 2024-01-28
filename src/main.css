@@ -96,8 +96,11 @@
 
   --header-background: #00000017;
 
-  --blur-ammount: blur(5px);
-  --sideBar-Image: url(https://www.predecessorgame.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Frm5ymc69vmwz%2F7hFFuA0iE0ZHMVEZzJDAYH%2Fedd85e473caf770029bcaabdd68e4ee1%2Fgideon.png%3Ffm%3Dwebp%26w%3D1920&w=640&q=75) 75% 100%/300% no-repeat, linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000) no-repeat;
+  --blur-sidepannel: blur(5px);
+  --blur-main-chat: blur(0px);
+  --blur-chat-header: blur(5px);
+  --chat-background: linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000);
+  --sidebar-image: url(https://www.predecessorgame.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Frm5ymc69vmwz%2F7hFFuA0iE0ZHMVEZzJDAYH%2Fedd85e473caf770029bcaabdd68e4ee1%2Fgideon.png%3Ffm%3Dwebp%26w%3D1920&w=640&q=75) 75% 100%/300% no-repeat, linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000) no-repeat;
 }
 
 body,
@@ -282,8 +285,8 @@ body,
 
 .sidebar_ded4b5 {
   margin: 0 var(--app-card-margin) 0 0;
-  background: var(--sideBar-Image);
-  backdrop-filter: var(--blur-ammount);
+  background: var(--sidebar-image);
+  backdrop-filter: var(--blur-sidepannel);
 }
 
 .sidebar_ded4b5.hidden__3ab58 {
@@ -396,7 +399,8 @@ body,
 .chat__52833,
 .container_def45c {
   border-radius: var(--app-card-radius);
-  background: linear-gradient(#794d9300, #794d934a, #794D93) !important;
+  background: var(--chat-background) !important;
+  backdrop-filter: var(--blur-main-chat);
   overflow: visible;
 }
 
@@ -606,7 +610,7 @@ body,
 
 .container__11d72.themed_b152d4 {
   background: var(--header-background);
-  backdrop-filter: var(--blur-ammount);
+  backdrop-filter: var(--blur-chat-header);
 }
 
 .container__11d72.themed_b152d4 .children__32014:after {
