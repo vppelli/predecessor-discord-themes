@@ -61,25 +61,25 @@
 
 ![Revenant](/img/Previews/RevenantPreview.png)
 
-![Riktor](#)
+![Riktor](/img/Previews/RiktorPreview.png)
 
-![Serath](#)
+![Serath](/img/Previews/SerathPreview.png)
 
-![Sevarog](#)
+![Sevarog](/img/Previews/SevarogPreview.png)
 
-![Shinbi](#)
+![Shinbi](/img/Previews/ShinbiPreview.png)
 
-![Sparrow](#)
+![Sparrow](/img/Previews/SparrowPreview.png)
 
-![Steel](#)
+![Steel](/img/Previews/SteelPreview.png)
 
-![TheFey](#)
+![TheFey](/img/Previews/TheFeyPreview.png#)
 
-![TwinBlast](#)
+![TwinBlast](/img/Previews/TwinblastPreview.png)
 
-![Wraith](#)
+![Wraith](/img/Previews/WraithPreview.png)
 
-![Zarus](#)
+![Zarus](/img/Previews/ZarusPreview.png)
 
 
 ## Installing Themes
