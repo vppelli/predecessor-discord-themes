@@ -35,29 +35,29 @@
 
 ![Howitzer](/img/Previews/HowitzerPreview.png)
 
-![IggyAndScorch](#)
+![IggyAndScorch](/img/Previews/IggyAndScorchPreview.png)
 
-![Kallari](#)
+![Kallari](/img/Previews/KallariPreview.png)
 
-![Khaimera](#)
+![Khaimera](/img/Previews/KhaimeraPreview.png)
 
-![Kira](#)
+![Kira](/img/Previews/KiraPreview.png)
 
-![Kwang](#)
+![Kwang](/img/Previews/KwangPreview.png)
 
-![LtBellica](#)
+![LtBellica](/img/Previews/LtBelicaPreview.png)
 
-![Morigesh](#)
+![Morigesh](/img/Previews/MorigeshPreview.png)
 
-![Murdock](#)
+![Murdock](/img/Previews/MurdockPreview.png)
 
-![Muriel](#)
+![Muriel](/img/Previews/MurielPreview.png)
 
-![Narbash](#)
+![Narbash](/img/Previews/NarbashPreview.png)
 
-![Phase](#)
+![Phase](/img/Previews/PhasePreview.png)
 
-![Rampage](#)
+![Rampage](/img/Previews/RampagePreview.png)
 
 ![Revenant](/img/Previews/RevenantPreview.png)
 
