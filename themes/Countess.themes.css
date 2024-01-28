@@ -65,7 +65,7 @@
      --blur-chat-header: blur(5px);
  
      /* Changes Channel list background color / image you can really go crazy here if you understand css. If you dont just replace the Url link with your Image                                                              Change sizing and scaling here for image          This is a Gradient if you dont want a background image just delete the url()part */             
-     --sidebar-image: url(https://www.predecessorgame.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Frm5ymc69vmwz%2F7hFFuA0iE0ZHMVEZzJDAYH%2Fedd85e473caf770029bcaabdd68e4ee1%2Fgideon.png%3Ffm%3Dwebp%26w%3D1920&w=640&q=75) 75% 100%/300% no-repeat, linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000) no-repeat;
+     --sidebar-image: url(https://vppelli.github.io/predecessor-discord-themes/img/hero/Countess.png) 75% 100%/300% no-repeat, linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000) no-repeat;
  
      /* Chat area, can make it a gradient if you want and transparent */
      --chat-background: linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000);
