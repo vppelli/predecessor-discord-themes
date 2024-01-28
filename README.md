@@ -23,7 +23,7 @@
 
 ![Drongo](/img/Previews/DrongoPreview.png)
 
-![Fengmao](#)
+![Fengmao](/img/Previews/FangmaoPreview.png)
 
 ![Gadget](#)
 
@@ -59,7 +59,7 @@
 
 ![Rampage](#)
 
-![Revenant](#)
+![Revenant](/img/Previews/RevenantPreview.png)
 
 ![Riktor](#)
 
@@ -115,7 +115,7 @@ To open and edit use any File/Txt Editor.
 [@Vppelli](https://github.com/vppelli).
 
 ## Special Thanks
-- CapnKitten for letting me use the Spotify Discord theme as the base for Predecessor Disocrd Theme.
+- CapnKitten for allowing me to use the Spotify Discord theme as the base for Predecessor Disocrd Theme. Please Check out his Themes!
 - Omeda Studio for the Game-Art.
 - Blank for the Pixel Art.
 
