@@ -68,7 +68,7 @@
     --sidebar-image: url(https://vppelli.github.io/predecessor-discord-themes/img/hero/Kallari.png) 75% 100%/350% no-repeat, linear-gradient(180deg, #a983c27c, #ff000000, #a473c47c, #dadada63) no-repeat;
 
     /* Chat area, can make it a gradient if you want and transparent */
-    --chat-background: linear-gradient(0deg, #a983c27c, #ff000000, #af6bdc7c, #e3e3e363);
+    --chat-background: linear-gradient(-90deg, #a983c27c, #ff000000, #ff000000, #af6bdc7c, #e3e3e363);
 
     /* Changed Main color of Links It uses HSL for its color Hue: Number Saturation: Percent % Lightness: Percent % */
     --accent-hue: 0;
