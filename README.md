@@ -14,42 +14,32 @@
 
 ## Background
 
-> Your documentation is complete when someone can use your module without ever
-having to look at its code. This is very important. This makes it possible for
-you to separate your module's documented interface from its internal
-implementation (guts). This is good because it means that you are free to
-change the module's internals as long as the interface remains the same.
-
-> Remember: the documentation, not the code, defines what a module does.
-
 ## Installing Themes
 
-Better Discord
+**Better Discord**
+> Open the themes folder [here](https://github.com/vppelli/predecessor-discord-themes/tree/main/themes), Find the theme you want, Download it!
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](www.google.com)
+> Drag downloaded file into the Themes folder in Better Discord (*Look at Gif*)
 
-Vencord Link
+![Gif](#)
+
+**Vencord with Link**
+> Samething as Better discord but you can add the themes via Link, **getting the Link** Open the themes folder [here](https://github.com/vppelli/predecessor-discord-themes/tree/main/themes)
+
+> Find the theme you want, open it and click **Raw** button upper right. Copy the link of the page and paste it into Vencord!
+
+Example Countess Theme link
 ```
-PlaceHolder
+https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/themes/Countess.themes.css
 ```
 
-## Usage
+## Want to Customize it more?
+Inside the theme you downloaded are further instructions.
 
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
+To open and edit use any File/Txt Editor.
 
-```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
-```
+![Gif](#)
 
-### Generator
-
-
-## Example Readmes
-
-
-
-## Related Efforts
 
 
 ## Maintainers
