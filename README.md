@@ -10,7 +10,10 @@
 </div>
 
 ## Table of Contents
-- [Intalling Themes](#Installing_Themes)
+- [Background](#background)
+- [Intalling Themes](#installing-themes)
+- [Maintainers](#maintainers)
+- [Special Thanks](#special-thanks)
 
 ## Background
 
