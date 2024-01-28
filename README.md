@@ -1,6 +1,6 @@
 <div align="center">
 
-[![PredecessorDiscordThemes](https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/img/PDT-logo.png)](https://github.com/vppelli/predecessor-discord-themes)
+[![PredecessorDiscordThemes](/img/PDT-logo.png)](https://github.com/vppelli/predecessor-discord-themes)
 </div>
 
 <div align="center">
