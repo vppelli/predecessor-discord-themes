@@ -25,15 +25,15 @@
 
 ![Fengmao](/img/Previews/FangmaoPreview.png)
 
-![Gadget](#)
+![Gadget](/img/Previews/GadgetPreview.png)
 
-![Gideon](#)
+![Gideon](/img/Previews/GideonPreview.png)
 
-![Greystone](#)
+![Greystone](/img/Previews/GreystonePreview.png)
 
-![Grux](#)
+![Grux](/img/Previews/GruxPreview.png)
 
-![Howitzer](#)
+![Howitzer](/img/Previews/HowitzerPreview.png)
 
 ![IggyAndScorch](#)
 
