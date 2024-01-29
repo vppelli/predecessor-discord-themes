@@ -89,7 +89,7 @@
 
 > Drag downloaded file into the Themes folder in Better Discord (*Look at Gif*)
 
-![Gif](#)
+![Gif](img/gif/ThemeFolder.gif)
 
 **Vencord with Link**
 > Samething as Better discord but you can add the themes via Link, **getting the Link** Open the themes folder [here](https://github.com/vppelli/predecessor-discord-themes/tree/main/themes)
@@ -106,7 +106,7 @@ Inside the theme you downloaded are further instructions.
 
 To open and edit use any File/Txt Editor.
 
-![Gif](#)
+![Gif](img/gif/VencordLink.gif)
 
 
 
