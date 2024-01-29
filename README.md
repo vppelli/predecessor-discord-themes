@@ -119,6 +119,7 @@ To open and edit use any File/Txt Editor.
 ## Special Thanks
 - CapnKitten for allowing me to use the Spotify Discord theme as the base for Predecessor Disocrd Theme. Please Check out his Themes!
 - Omeda Studio for the Game-Art.
+- Credit to the artist of the backgrounds, all grabed from google search. Links to the art are inside each theme.
 
 ### Check out Spotify Discord Theme by [@CapnKitten](https://github.com/CapnKitten/Spotify-Discord).
 ### Check out Predecessor by [@OmedaStudios](https://www.predecessorgame.com).
