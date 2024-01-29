@@ -98,7 +98,7 @@
 
 Example Countess Theme link
 ```
-https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/themes/Countess.themes.css
+https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/themes/Countess.theme.css
 ```
 
 ## Want to Customize it more?
