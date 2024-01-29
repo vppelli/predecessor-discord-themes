@@ -100,13 +100,14 @@ Example Countess Theme link
 ```
 https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/themes/Countess.theme.css
 ```
+![Gif](img/gif/VencordLink.gif)
 
 ## Want to Customize it more?
 Inside the theme you downloaded are further instructions.
 
 To open and edit use any File/Txt Editor.
 
-![Gif](img/gif/VencordLink.gif)
+![Gif](#)
 
 
 
