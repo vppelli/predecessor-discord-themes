@@ -12,6 +12,7 @@
 ## Table of Contents
 - [Themes](#themes)
 - [Intalling Themes](#installing-themes)
+- [Customize Theme](#customize-theme)
 - [Maintainers](#maintainers)
 - [Special Thanks](#special-thanks)
 
@@ -102,12 +103,12 @@ https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/themes
 ```
 ![Gif](img/gif/VencordLink.gif)
 
-## Want to Customize it more?
-Inside the theme you downloaded are further instructions.
+## Customize Theme
+Want to Customize it more? Inside the theme you downloaded are further instructions.
 
 To open and edit use any File/Txt Editor.
 
-![Gif](#)
+![Gif](img/gif/EditingTheme.gif)
 
 
 
