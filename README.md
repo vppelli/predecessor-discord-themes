@@ -1,6 +1,8 @@
 <div align="center">
+  
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/PDT.png"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/LPDT.png"><img alt="Predecessor Discord Theme link" src="https://github.com/vppelli/Vppelli/blob/main/img/PDT.png">
+</picture>](https://github.com/vppelli/predecessor-discord-themes)
 
-[![PredecessorDiscordThemes](/img/PDT-logo.png)](https://github.com/vppelli/predecessor-discord-themes)
 </div>
 
 <div align="center">
@@ -88,14 +90,14 @@
 **Better Discord**
 > Open the themes folder [here](https://github.com/vppelli/predecessor-discord-themes/tree/main/themes), Find the theme you want, Download it!
 
-> Drag downloaded file into the Themes folder in Better Discord (*Look at Gif*)
+> Drag the downloaded file into the Themes folder in Better Discord (*Look at Gif*)
 
 ![Gif](img/gif/ThemeFolder.gif)
 
 **Vencord with Link**
-> Samething as Better discord but you can add the themes via Link, **getting the Link** Open the themes folder [here](https://github.com/vppelli/predecessor-discord-themes/tree/main/themes)
+> Something as Better discord but you can add the themes via Link, **getting the Link** Open the themes folder [here](https://github.com/vppelli/predecessor-discord-themes/tree/main/themes)
 
-> Find the theme you want, open it and click **Raw** button upper right. Copy the link of the page and paste it into Vencord!
+> Find the theme you want, open it, and click the **Raw** button upper right. Copy the link to the page and paste it into Vencord!
 
 Example Countess Theme link
 ```
@@ -106,7 +108,7 @@ https://raw.githubusercontent.com/vppelli/predecessor-discord-themes/main/themes
 ## Customize Theme
 Want to Customize it more? Inside the theme you downloaded are further instructions.
 
-To open and edit use any File/Txt Editor.
+To open and edit use any File/Text Editor.
 
 ![Gif](img/gif/EditingTheme.gif)
 
@@ -117,12 +119,12 @@ To open and edit use any File/Txt Editor.
 [@Vppelli](https://github.com/vppelli).
 
 ## Special Thanks
-- CapnKitten for allowing me to use the Spotify Discord theme as the base for Predecessor Disocrd Theme. Please Check out his Themes!
+- CapnKitten for allowing me to use the Spotify Discord theme as the base for the Predecessor Disocrd Theme. Please Check out his Themes!
 - Omeda Studio for the Game-Art.
-- Credit to the artist of the backgrounds, all grabed from google search. Links to the art are inside each theme.
+- Credit to the artist of the backgrounds, all grabbed from Google search. Links to the art are inside each theme.
 
 ### Check out Spotify Discord Theme by [@CapnKitten](https://github.com/CapnKitten/Spotify-Discord).
 ### Check out Predecessor by [@OmedaStudios](https://www.predecessorgame.com).
 
 ## License
-Free to use and edit, Not for Selling purpose!
+Free to use and edit, Not for Selling purposes!
