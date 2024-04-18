@@ -279,53 +279,49 @@ body,
  *  CHANNELS LIST
  *
  */
-.platform-win .sidebar_ded4b5 {
+ .platform-win .sidebar_e031be {
   border-radius: var(--app-card-radius) !important;
 }
 
-.sidebar_ded4b5 {
+.sidebar_e031be {
   margin: 0 var(--app-card-margin) 0 0;
   background: var(--sidebar-image);
   backdrop-filter: var(--blur-sidepannel);
 }
-
-.sidebar_ded4b5.hidden__3ab58 {
+.sidebar_e031be.hidden__3ab58 {
   margin: 0;
 }
-
-.sidebar_ded4b5 .container__590e2 {
+.sidebar_e031be .container__7e23c {
   background-color: transparent;
 }
 
-.link__95dc0 {
+.link_ddbb36 {
   border-radius: var(--menu-item-radius);
 }
 
-.wrapper__7bcde:hover .link__95dc0 {
+.wrapper__612a5:hover .link_ddbb36 {
   background-color: var(--background-tinted-hover);
 }
 
-.modeSelected__487d6 .link__95dc0 {
+.modeSelected__473f1 .link_ddbb36 {
   background-color: var(--background-tinted-active);
 }
-
-.modeSelected__487d6:hover .link__95dc0 {
+.modeSelected__473f1:hover .link_ddbb36 {
   background-color: var(--background-tinted-highlight);
 }
 
-.header__104ca {
+.header__77c95 {
   height: var(--header-bar-height);
   padding: 0 16px;
   background-color: var(--header-bar-color) !important;
   border-radius: var(--app-card-radius) var(--app-card-radius) 0 0;
   box-shadow: none;
 }
-
-.header__104ca .primaryInfo_b44f9d {
+.header__77c95 .primaryInfo__8d587 {
   height: var(--header-bar-height);
 }
 
-.hasBanner_e78601 {
+.hasBanner__04337 {
   --header-bar-color: transparent;
 }
 
@@ -339,44 +335,49 @@ body,
   border-radius: 0 0 var(--app-card-radius) var(--app-card-radius);
 }
 
-.activityPanel__22355 {
+.activityPanel_b73e7a {
   background: transparent !important;
   border-bottom: none;
 }
-
-.activityPanel__22355+.wrapper__0ed4a:not(:empty) {
+.activityPanel_b73e7a + .wrapper_e832ee:not(:empty) {
   border-top: 1px solid var(--sidebar-panel-border);
 }
 
-.wrapper__0ed4a {
+.wrapper_e832ee {
   transition: var(--default-time) var(--default-animation) margin-bottom;
 }
 
-.container_d667ff {
+.container_e1958d {
   background-color: transparent;
   border-bottom: none;
 }
 
-.actionButtons_b58cbb .button_afdfd9 {
+.actionButtons__85e3c .button__581d0 {
   --button-padding: 0 12px;
 }
+.actionButtons__85e3c .button__581d0 path[fill] {
+  fill: currentColor !important;
+}
+.actionButtons__85e3c .button__581d0 path[stroke] {
+  stroke: currentColor !important;
+}
 
-.container_ca50b9 {
+.container_debb33 {
   background: transparent !important;
   transition: var(--default-time) var(--default-animation) margin-bottom;
 }
 
-.button__4f306 {
+.button_ae40a4 {
   border-radius: 16px;
 }
 
-.withTagAsButton_cc125f:hover,
-.withTagless__98b7d:hover {
+.withTagAsButton_e22174:hover,
+.withTagless__058f8:hover {
   background-color: var(--background-tinted-hover);
   border-radius: 20px;
 }
 
-.gameActivityToggleAdded-Yd-YxC .withTagAsButton_cc125f {
+.gameActivityToggleAdded-Yd-YxC .withTagAsButton_e22174 {
   flex: 0;
   min-width: 32px;
 }
