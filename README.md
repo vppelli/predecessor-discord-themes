@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![Requires](https://img.shields.io/badge/Requires-%23E8C506?style=for-the-badge) [![BetterDiscord](https://img.shields.io/badge/Better_Discord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://betterdiscord.app) [![Vencord](https://img.shields.io/badge/Vencord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://vencord.dev) 
+[![Requires](https://img.shields.io/badge/Requires-%23E8C506?style=for-the-badge)](#) [![BetterDiscord](https://img.shields.io/badge/Better_Discord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://betterdiscord.app) [![Vencord](https://img.shields.io/badge/Vencord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://vencord.dev) 
 
 </div>
 
