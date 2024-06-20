@@ -113,7 +113,6 @@
   --window-title-bar-height: 22px;
   --notice-bar-height: 36px;
   background: var(--app-background);
-  transform: var(--img-flip);
 }
 
 body,
