@@ -108,7 +108,7 @@
  *  APP ELEMENTS
  *
  */
- /* .appMount_ea7e65 {
+.appMount_ea7e65 {
   --app-search-bar-margin: calc( (var(--app-search-bar-height) + 22px) / 2 );
   --window-title-bar-height: 22px;
   --notice-bar-height: 36px;
@@ -141,7 +141,6 @@ body,
 
 .layer_d4b6c5 {
   background: var(--app-background);
-  transform: var(--img-flip);
 }
 
 /*
@@ -149,7 +148,7 @@ body,
  *  CHANNELS LIST
  *
  */
- /* .platform-win .sidebar_a4d4d9 {
+.platform-win .sidebar_a4d4d9 {
   border-radius: var(--app-card-radius) !important;
 }
 
@@ -197,14 +196,14 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 
 .hasBanner_fd6364 {
   --header-bar-color: transparent;
-} */
+}
 
 /*
  *
  *  CHANNELS LIST PANELS
  *
  */
- /* .panels_a4d4d9 {
+.panels_a4d4d9 {
   background-color: var(--app-foreground);
   border-radius: 0 0 var(--app-card-radius) var(--app-card-radius);
 }
@@ -261,7 +260,7 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
  *  CHAT AREA
  *
  */
- /* .base_a4d4d9 {
+.base_a4d4d9 {
   width: calc(72px + var(--app-card-margin) * 2 - 100vw);
   margin: var(--app-card-top-margin) var(--app-card-margin) var(--app-bar-size) 0;
   overflow: visible;
@@ -297,10 +296,10 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 
 .resizeHandle_d1c246 {
   background-color: var(--app-background);
-} */
+}
 
 /* CHAT AREA -> DIVIDERS */
-/* .divider_fc5f50 {
+.divider_fc5f50 {
   --divider-color: var(--popout-color);
   --divider-text-color: var(--menu-text-color);
   border-top-color: var(--divider-color);
@@ -320,7 +319,7 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 }
 
 /* CHAT AREA -> NEW MESSAGES BAR */
-/* .newMessagesBar_cf58b5 {
+.newMessagesBar_cf58b5 {
   padding: 0 12px;
   top: 8px;
   border-radius: 16px;
@@ -331,10 +330,10 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 .newMessagesBar_cf58b5 .barButtonBase_cf58b5 {
   padding: 0;
   color: var(--accent-text-color);
-} */
+}
 
 /* CHAT AREA -> JUMP TO PRESENT BUTTON */
-/* .jumpToPresentBar_cf58b5 {
+.jumpToPresentBar_cf58b5 {
   margin-bottom: 30px;
   padding-bottom: 0;
   border-radius: 4px;
@@ -344,7 +343,7 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 }
 
 /* CHAT AREA -> PLACEHOLDER */
-/* .wrapper_cdfd51, .wrapper_b211c6 {
+.wrapper_cdfd51, .wrapper_b211c6 {
   background-color: var(--app-foreground);
 }
 
@@ -356,14 +355,14 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 .avatar_b211c6,
 .blob_b211c6 {
   background-color: hsl(0, 0%, 100%);
-} */
+}
 
 /*
  *
  *  MAIN TEXTAREA
  *
  */
- /* .form_a7d72e {
+.form_a7d72e {
   position: relative;
   width: 100%;
   bottom: calc(var(--app-bar-size) * -1);
@@ -433,10 +432,10 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 }
 .scrollableContainer_d0696b .placeholder_a552a6 {
   color: var(--main-textarea-placeholder-color);
-} */
+}
 
 /* MAIN TEXTAREA -> REPLY BAR */
-/* .attachedBars_d0696b {
+.attachedBars_d0696b {
   background-color: var(--main-textarea-color);
   border-radius: var(--main-textarea-radius) var(--main-textarea-radius) 0 0;
   border-bottom: 1px solid var(--main-textarea-border-color);
@@ -460,7 +459,7 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
  *  HEADER BAR
  *
  */
- /* .container_e44302 {
+.container_e44302 {
   height: var(--header-bar-height);
   border-radius: var(--app-card-radius) var(--app-card-radius) 0 0;
 }
@@ -470,4 +469,4 @@ body:not(:has(:is(.container_6sXIoE, #vc-spotify-player))) .sidebar_a4d4d9 {
 }
 .container_e44302.themed_e44302 .children_e44302:after {
   background: linear-gradient(90deg, transparent 0, var(--header-bar-color));
-} */
+}
