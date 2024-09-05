@@ -103,6 +103,11 @@
   --sidebar-image: url(https://www.predecessorgame.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Frm5ymc69vmwz%2F7hFFuA0iE0ZHMVEZzJDAYH%2Fedd85e473caf770029bcaabdd68e4ee1%2Fgideon.png%3Ffm%3Dwebp%26w%3D1920&w=640&q=75) 75% 100%/300% no-repeat, linear-gradient(180deg, #1f1f1f00, #0000003c, #00000088, #000000) no-repeat;
 }
 
+/* Video background none */
+.video_d880dc {
+  background: none;
+}
+
 /*
  *
  *  APP ELEMENTS
